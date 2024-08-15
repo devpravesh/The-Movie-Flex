@@ -31,7 +31,7 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/the_movie_flex.git
+   git clone https://github.com/devpravesh/The-Movie-Flex.git
    cd the_movie_flex
    ```
 
@@ -62,7 +62,7 @@ Ensure you have the following installed:
 
 For a video demonstration of the app, click the link below:
 
-[Watch the Video](./video/movie_flex_demo.mp4)
+[Watch the Video](./screenrecord.mp4)
 
 ## Dependencies
 
