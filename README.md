@@ -14,7 +14,7 @@ The Movie Flex is a Flutter-based application that provides users with informati
 
 ## Screenshots
 
-(Add screenshots of your app here)
+![Demo Gif](https://github.com/user-attachments/assets/f59bd679-1639-49df-b500-02c7be1d9742)
 
 ## Getting Started
 
